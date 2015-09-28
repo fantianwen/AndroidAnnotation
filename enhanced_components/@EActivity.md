@@ -1,4 +1,4 @@
-###1、@EActivity
+###@EActivity
 该注解的参数必须是一个layout文件的id，该文件将用作该actiivty的Content View
 
 你同样可以传递一个空的参数，这代表该activity不需要设置Content View,或者你希望在**绑定**之前，自己设置一个Content View。
