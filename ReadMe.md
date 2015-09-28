@@ -5,4 +5,7 @@
 - [@EActivity](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EActivity.md)
 - [@EApplication](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EApplication.md)
 - [@EBean](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EBean.md)
+- [@EFragment](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EFragment.md)
+- [@EProvider](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EProvider.md)
+
 
