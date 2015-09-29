@@ -9,5 +9,6 @@
 - [@EProvider](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EProvider.md)
 - [@EReceiver](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EReceiver.md)
 - [@EIntentService](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EIntentService.md)
+- [@EService](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EService.md)
 
 
