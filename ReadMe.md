@@ -10,5 +10,6 @@
 - [@EReceiver](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EReceiver.md)
 - [@EIntentService](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EIntentService.md)
 - [@EService](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EService.md)
+- [@EView](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EView.md)
 
 
