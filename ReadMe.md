@@ -12,4 +12,7 @@
 - [@EService](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EService.md)
 - [@EView](https://github.com/fantianwen/AndroidAnnotation/blob/master/enhanced_components/%40EView.md)
 
+##三、注入
+- [@AfterExtras](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40EAfterExtras.md)
+
 
