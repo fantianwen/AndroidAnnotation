@@ -21,5 +21,6 @@
 - [@FromHtml](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40FromHtml.md)
 - [@HttpsClient](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40HttpsClient.md)
 - [@NoneConfigurationInstance](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40NoneConfigurationInstance.md)
+- [@SystemService](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40SystemService.md)
 
 
