@@ -15,5 +15,6 @@
 ##三、注入
 - [@AfterExtras](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40EAfterExtras.md)
 - [@AfterInject](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40EAfterInject.md)
+- [@AfterViews](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40EAfterViews.md)
 
 
