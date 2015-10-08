@@ -17,5 +17,9 @@
 - [@AfterInject](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40EAfterInject.md)
 - [@AfterViews](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40EAfterViews.md)
 - [@App](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40App.md)
+- [@FragmentArg](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40FragmentArg.md)
+- [@FromHtml](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40FromHtml.md)
+- [@HttpsClient](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40HttpsClient.md)
+- [@NoneConfigurationInstance](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40NoneConfigurationInstance.md)
 
 
