@@ -26,4 +26,18 @@
 
 ##四、事件绑定（Event binding）
 
+- [@TextChange](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40TextChange.md)
+
+##五、线程（Threading）
+- [@Background](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40Background.md)
+- [@UiThread](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40UiThread.md)
+- [@SupposeBackground](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40SupposeBackground.md)
+
+##六、各式各样其他（Misc）
+- [@CustomTitle](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40CustomTitle.md)
+- [@InstanceState](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40InstanceState.md)
+- [@WindowFeatureAndFullScreen](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40WindowFeatureAndFullScreen.md)
+- [@OrmLiteDao](https://github.com/fantianwen/AndroidAnnotation/blob/master/Injection/%40OrmLiteDao.md)
+
+
 
